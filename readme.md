@@ -14,8 +14,8 @@ pip install -r requirements.txt
 
 - to download news in naver
 ```bash
-press_list : select press where you want to crawling
-query : select query that you want to search
+press_list : choose press where you want to crawling
+query : choose query that you want to search
 news_num : choose how many news you have
 code : python news_crawling.py
 ```
