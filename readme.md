@@ -1,5 +1,10 @@
 ## Crawling 사용법
 
+### package
+```
+pip install -r requirements.txt
+```
+
 ### chromdriver.exe
 - first you have to check chrome version
 - go into https://chromedriver.chromium.org/downloads
