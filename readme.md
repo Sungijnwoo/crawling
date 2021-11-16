@@ -1,5 +1,10 @@
 ## Crawling 사용법
 
+### chromdriver.exe
+- first you have to check chrome version
+- go into https://chromedriver.chromium.org/downloads
+- download proper version of chromedriver
+
 ### news_crawling.py
 
 - to download news in naver
