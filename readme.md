@@ -4,9 +4,9 @@
 
 - to download news in naver
 ```bash
-press_list : 뉴스 회사 종류 선택
-query : 검색할 뉴스 제목
-news_num : 검색할 뉴스의 개수
+press_list : select press where you want to crawling
+query : select query that you want to search
+news_num : choose how many news you have
 code : python news_crawling.py
 ```
 
