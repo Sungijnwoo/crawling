@@ -1,4 +1,4 @@
 selenium
-urlib
+requests
 tqdm
 beautifulsoup4
