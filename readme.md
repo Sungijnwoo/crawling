@@ -2,6 +2,8 @@
 
 ### package
 ```
+conda create -n {name} python=3.8 -y
+conda activate {name}
 pip install -r requirements.txt
 ```
 
